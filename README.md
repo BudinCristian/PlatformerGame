@@ -14,10 +14,10 @@ Welcome to the Block Breaker Game! This classic 2D game is developed using the S
 ## Screenshots
 
 ### Start Screenshot
-![Start Screenshot](/DragonLK/screenshots/Start.PNG)
+![Start Screenshot](/screenshots/Start.PNG)
 
 ### Gameplay Screenshot
-![Gameplay Screenshot](/DragonLK/screenshots/Gameplay.PNG)
+![Gameplay Screenshot](/screenshots/Gameplay.PNG)
 
 ## How to Play
 
